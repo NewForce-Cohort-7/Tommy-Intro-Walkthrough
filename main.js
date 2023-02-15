@@ -97,5 +97,14 @@ let age = 34
             console.log(theRock["name"])
 
 
+
+
+            const add = "I need to add more things to test github"
+
+            for(let i = 0; i < 100; i++){
+                console.log(add)
+            }
+
+
             
 
